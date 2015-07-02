@@ -1,0 +1,26 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It made it easier to spot the differences in the files. 
+I an see where this would be a very useful tool.
+
+How could having easy access to the entire history of a file make you a more efficent
+programmer in the long term?
+
+With access to the entire history, i could easier track down bugs that suddenly
+started appearing in my app at a particular time. Using it to look back and compare
+old code that was working fine with the new errored code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+I think that it gives you flexibility to chose when your commits take place and it will limit the size of the commits.
+But on the flipside, you are liable to forget a commit from time to time, since it would be a manual process.
+
+How can you use the commands git log and git diff to view the history of files?
+git log provides an overview of the commit history of the repository. A log of with a breif description of what has been changed. 
+The git diff command gives you a more detailed view of the actual changes that were made between two commits. I shows what lines where added/removed.
+
+How might using version control make you more confident to make changes that could break something?
+there would be less concern for breaking something because i could just roll it back. It would be a piece of cake for me. The only concern that i would have is that i would need to know the id number of the most receint commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would try to use git to manage the version of you resumebuilder code base
