@@ -1,5 +1,5 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-
+good
 It made it easier to spot the differences in the files. 
 I an see where this would be a very useful tool.
 
