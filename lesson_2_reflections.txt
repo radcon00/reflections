@@ -8,3 +8,9 @@ The staging area is the middle man between the repository and the working direct
 like to commit so they can all be committed at the same time. 
 
 it gives you a nice level of control over what files are committed once a commit is done.
+
+How can you use the staging area to make sure you have one commit per logical change? That is easy. The staging area can be used to veiw the changes in the files vs the logical directory. You can confirm if the changes warrant a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? how would branches help?
+
+Branches would make it easier for me when i wanted to test some new functionality in my code base but do not want it added to the master branch. Branches creates a completely sepearate code base that you can use as your playground.
