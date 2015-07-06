@@ -18,3 +18,13 @@ Branches would make it easier for me when i wanted to test some new functionalit
 How do the diagrams help you visualize the branch structure?
 
 I makes it easier to see how the code bases deviate from each other. It is good to be able to see where one branch seperates from the others.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
+
+Merging two branches together pulls together the changes made on 2 seperate branches and puts them together. the diagram was set up to show the difference between the two banches and how they will be pulled together.
+
+what are the pros and cons of Gits automatic merging vs always doing merges manually?
+
+manual merging makes sure that the correct code is merged into the new branch. However, it can be time consuming.
+
+Automatic merging makes it easier to merge two branches as long as there is not any conflicts. if there is a conflict you will have to handle it manually.
