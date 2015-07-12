@@ -1,0 +1,2 @@
+When would you use a remote repository instead of keeping all of your work local? 
+It would be good if you have more than one person working on the code base that are in different locations. 
