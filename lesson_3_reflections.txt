@@ -5,3 +5,17 @@ It would be good if you have more than one person working on the code base that 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 you would not want auto-commits because the change might be a part of a large feature update and would break the code.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks are used to make a copy of a repository on git hub. you would want to fork if you want to be able to submit changes to 
+the master file. 
+
+clones allow you to copy the repository to your machine. 
+
+branches are used to create different portions of code where you can test new features 
+without affecting the main code
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+that means that you would have an up-to-date copy of the file available to merge into. It makes it easier to work.
