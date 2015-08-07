@@ -19,3 +19,7 @@ without affecting the main code
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 that means that you would have an up-to-date copy of the file available to merge into. It makes it easier to work.
+
+how would you collaborate without using git or git hub? what would be easier, and what would be harder? 
+
+It would be really hard to manage my projects without it. It would be difficult to manage the changes in my project between contributors. Git makes it easier to manage the changes and the revisions.
